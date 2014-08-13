@@ -1,0 +1,22 @@
+.hiheader {
+	font-family: 'Cookie', serif;
+	text-align: center;
+	width: 100%;
+	position: relative;
+	padding-top: 200px;
+	font-size: 6em;
+}
+
+p {
+	font-family: "PT Sans Narrow", sans-serif;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.links {
+	list-style: none;
+}
+
+.link {
+	display: block;
+}
