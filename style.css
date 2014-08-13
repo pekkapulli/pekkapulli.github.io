@@ -12,8 +12,11 @@ p {
 	text-align: center;
 	font-size: 1.5em;
 }
-a {
 
+a {
+	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
+	transition: 0.5s;
 }
 
 a:hover {
